@@ -1,0 +1,2 @@
+StudentList = []
+Idcounter = 0
